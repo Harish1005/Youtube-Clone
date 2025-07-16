@@ -3,7 +3,8 @@ A simple static clone of the YouTube homepage built using only HTML and CSS. Thi
 
 ## 🌐 Live Demo
 🔗 Live Preview
-https://harish1005.github.io/Youtube-Clone/
+
+https://youtube-clone-harishmh.netlify.app/
 
 ## 🛠️ Technologies Used
 ✅ HTML5 – Semantic structure of the page
