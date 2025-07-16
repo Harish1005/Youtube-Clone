@@ -31,6 +31,8 @@ Example:
 
 ## 👨‍💻 Author
 Harish MH
+
 📧 veera.mhharish@gmail.com
+
 🔗 GitHub – Harish1005
 
