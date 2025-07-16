@@ -3,7 +3,7 @@ A simple static clone of the YouTube homepage built using only HTML and CSS. Thi
 
 ## 🌐 Live Demo
 🔗 Live Preview
-
+https://harish1005.github.io/Youtube-Clone/
 
 ## 🛠️ Technologies Used
 ✅ HTML5 – Semantic structure of the page
@@ -23,14 +23,9 @@ A simple static clone of the YouTube homepage built using only HTML and CSS. Thi
 
 🔧 No JavaScript – pure HTML & CSS
 
-## 📁 Project Structure
-youtube-clone/
-├── index.html
-├── style.css
-└── /assets
-    └── /images
 ## 📸 Screenshot
 Example:
+<img width="1916" height="963" alt="Screenshot 2025-07-16 110019" src="https://github.com/user-attachments/assets/919ad5e1-8c7b-4723-8972-7e21c1c3b04f" />
 
 
 ## 👨‍💻 Author
